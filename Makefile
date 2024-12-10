@@ -5,7 +5,8 @@
 # occuring words from each of the 3 novels. This script
 # takes no arguments.
 
-
+# example usage:
+# make all
 
 all : report/count_report.html
 
