@@ -1,5 +1,12 @@
 # Makefile
 
+# This driver script completes the textual analysis of
+# 3 novels and creates figures on the 10 most frequently
+# occuring words from each of the 3 novels. This script
+# takes no arguments.
+
+
+
 all : report/count_report.html
 
 # Count words.
